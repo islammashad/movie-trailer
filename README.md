@@ -28,5 +28,4 @@ A Movie Trailer Website where users can see my favorite movies and watch the tra
   A fourth file, `fresh_tomatoes.html`, will be generated when you run the program as described above. 
   This file is the actual web page you would see in your browser.
 
-# Movie_Trailer
-# movie-trailer
+ by Islam Ahmed 
